@@ -1,0 +1,4 @@
+config.py
+*.xlsx
+__pycache__/
+.DS_Store
